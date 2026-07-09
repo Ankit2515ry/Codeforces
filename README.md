@@ -6,24 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 12 |
+| 31 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
-- [data structures](#data-structures) (3)
+- [constructive algorithms](#constructive-algorithms) (8)
+- [data structures](#data-structures) (4)
 - [dp](#dp) (2)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (2)
-- [math](#math) (7)
-- [number theory](#number-theory) (3)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (7)
+- [math](#math) (18)
+- [number theory](#number-theory) (6)
 - [sortings](#sortings) (6)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -39,6 +39,11 @@
 |---|---------|------------|----------|
 | 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2131E | [Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/E%20-%20Adjacent%20XOR/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+| 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2133/A%20-%20Redstone%3F/solution.cpp) |
+| 2134C | [Even Larger](https://codeforces.com/contest/2134/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/C%20-%20Even%20Larger/solution.cpp) |
+| 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 
 ### combinatorics
 
@@ -52,6 +57,11 @@
 |---|---------|------------|----------|
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2130B | [Pathless](https://codeforces.com/contest/2130/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2130/B%20-%20Pathless/solution.cpp) |
+| 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
+| 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
+| 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
+| 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 | 2231A | [Construct an Array](https://codeforces.com/contest/2231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2231/A%20-%20Construct%20an%20Array/solution.cpp) |
 
 ### data structures
@@ -61,6 +71,7 @@
 | 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
 | 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.cpp) |
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.cpp) |
+| 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2133/A%20-%20Redstone%3F/solution.cpp) |
 
 ### dp
 
@@ -80,6 +91,12 @@
 | 2126D | [This Is the Last Time](https://codeforces.com/contest/2126/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/D%20-%20This%20Is%20the%20Last%20Time/solution.cpp) |
 | 2128A | [Recycling Center](https://codeforces.com/contest/2128/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2128/A%20-%20Recycling%20Center/solution.cpp) |
 | 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
+| 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
+| 2131E | [Adjacent XOR](https://codeforces.com/contest/2131/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/E%20-%20Adjacent%20XOR/solution.cpp) |
+| 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
+| 2133B | [Villagers](https://codeforces.com/contest/2133/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2133/B%20-%20Villagers/solution.cpp) |
+| 2134C | [Even Larger](https://codeforces.com/contest/2134/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/C%20-%20Even%20Larger/solution.cpp) |
+| 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 
 ### implementation
 
@@ -87,6 +104,11 @@
 |---|---------|------------|----------|
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+| 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2133/A%20-%20Redstone%3F/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
+| 2134C | [Even Larger](https://codeforces.com/contest/2134/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/C%20-%20Even%20Larger/solution.cpp) |
+| 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 
 ### math
 
@@ -99,6 +121,17 @@
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.cpp) |
 | 2130A | [Submission is All You Need](https://codeforces.com/contest/2130/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2130/A%20-%20Submission%20is%20All%20You%20Need/solution.cpp) |
+| 2131A | [Lever](https://codeforces.com/contest/2131/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/A%20-%20Lever/solution.cpp) |
+| 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.cpp) |
+| 2132B | [The Secret Number](https://codeforces.com/contest/2132/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/B%20-%20The%20Secret%20Number/solution.cpp) |
+| 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
+| 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2133/A%20-%20Redstone%3F/solution.cpp) |
+| 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.cpp) |
+| 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
+| 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
+| 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
+| 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 
 ### number theory
 
@@ -107,6 +140,9 @@
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2125C | [Count Good Numbers](https://codeforces.com/contest/2125/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2125/C%20-%20Count%20Good%20Numbers/solution.cpp) |
 | 2126E | [G-C-D, Unlucky!](https://codeforces.com/contest/2126/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2126/E%20-%20G-C-D%2C%20Unlucky!/solution.cpp) |
+| 2131C | [Make it Equal](https://codeforces.com/contest/2131/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2131/C%20-%20Make%20it%20Equal/solution.cpp) |
+| 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.cpp) |
+| 2137B | [Fun Permutation](https://codeforces.com/contest/2137/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2137/B%20-%20Fun%20Permutation/solution.cpp) |
 
 ### sortings
 
@@ -124,6 +160,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2125A | [Difficult Contest](https://codeforces.com/contest/2125/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2125/A%20-%20Difficult%20Contest/solution.cpp) |
+| 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ---
 
