@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 13 |
+| 34 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
@@ -33,6 +33,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
+| 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 
 ### bitmasks
 
