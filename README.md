@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 13 |
+| 37 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
@@ -36,6 +36,7 @@
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 | 2250C | [Rank Subsequence](https://codeforces.com/contest/2250/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2250/C%20-%20Rank%20Subsequence/solution.cpp) |
 | 2250D | [Permutation Cuts](https://codeforces.com/contest/2250/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2250/D%20-%20Permutation%20Cuts/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Ankit2515ry/Codeforces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### bitmasks
 
